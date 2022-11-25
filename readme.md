@@ -18,7 +18,7 @@ Following steps are invloved in the project:
 * Used Column Transformer class to perform one hot encoding on the categorical features without disturbing the numerical features.
 * Created a pipeline for feature transformation using column transformer and training the model on the dataset.
 
-## Moedling
+## Modeling
 * Trained and tested various algorithm for R2 value and Mean Absolute Error.
 * Performed hyperparameter tuning for Random Forest and Decision Tree algorithm by finding the effective aplha values of subtrees using cost complexity pruning path function.
 * Created the Pickle File of the model for intergrating it with UI to perform real time predictions of the laptop price.

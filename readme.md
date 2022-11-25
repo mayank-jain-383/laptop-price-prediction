@@ -23,7 +23,5 @@ Following steps are invloved in the project:
 * Performed hyperparameter tuning for Random Forest and Decision Tree algorithm by finding the effective aplha values of subtrees using cost complexity pruning path function.
 * Created the Pickle File of the model for intergrating it with UI to perform real time predictions of the laptop price.
 
-## Model Deployment
-* Built the UI using the streamlit library running on Flask web framework. Deployed on Heroku.
 
 
